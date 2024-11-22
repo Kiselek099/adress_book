@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Adress_book</string>
+    <string name="main_title">Введите пользователя</string>
+    <string name="edit_name">Введите имя</string>
+    <string name="edit_surname">Введите фамилию</string>
+    <string name="edit_address">Введите адрес</string>
+    <string name="edit_number">Введите телефон</string>
+    <string name="edit_person">Сохранить</string>
+    <string name="name">Имя пользователя</string>
+    <string name="cart">Карточка</string>
+    <string name="surname">Фамилия пользователя</string>
+    <string name="address">Адрес пользователя</string>
+    <string name="number">Номер пользователя</string>
+    <string name="back">Назад</string>
+</resources>
